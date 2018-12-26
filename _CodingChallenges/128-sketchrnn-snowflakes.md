@@ -19,6 +19,15 @@ videos:
     video_id: "xfuVcfwtEyw"
   - title: "Coding Challenge #122: Quick, Draw!"
     url: "/CodingChallenges/122.1-quick-draw"
+    
+contributions:  
+  - title: "Snow Fall With Sketch RNN snowflakes"
+  author: Almujtaba Mohammed
+    name: "TheTBO"
+    url: https://github.com/TheTBO
+  url: https://thetbo.github.io/snowflake/
+  source: https://github.com/TheTBO/snowflake
+  
 ---
 
 In this holiday coding challenge, I use ml5.js and Sketch-RNN to generate snowflake drawings.
